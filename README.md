@@ -10,7 +10,7 @@ I'm working mostly with ***R***, a bit of web tools (shiny, HTML, CSS), and - sl
 
 If you want to learn more or reach out, please see my **[website](www.christian-rauh.eu)**.
 
-![](https://github.com/chrauh/charauh/blob/main/LinkedIn-Card.png?raw=true)
+![](https://github.com/ChRauh/ChRauh/blob/main/LinkedIn-Card.png?raw=true)
 
 
 
